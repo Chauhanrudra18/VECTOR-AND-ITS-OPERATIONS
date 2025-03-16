@@ -97,11 +97,8 @@ Add the bin directory to the system path
 
 6.Contribution Guidelines
 
-->If you want to contribute, you can modify the variable names in the vector declaration.
-
-Example: Change vector<int> v; -> vector<int> your_name;.
-
-Ensure proper coding standards and documentation.
+->If you want to contribute, You can add new operations of vector there are many operations available on the link provided above.
+->Ensure proper coding standards and documentation.
 
 
 7.Conclusion
